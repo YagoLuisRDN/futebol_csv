@@ -4,7 +4,7 @@
 const fs = require('fs');
 const { faker } = require('@faker-js/faker');
 
-const NUM_RECORDS = 50000; // Ajuste conforme necessário
+const NUM_RECORDS = 5000; // Ajuste conforme necessário
 
 // Função para remover acentuações de uma string
 function removeAccents(str) {
